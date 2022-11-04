@@ -55,7 +55,7 @@ h1 {
     overflow: hidden;
 }
 .card--avatar {
-    width: 100%;
+    width: 15em;
     height: 10rem;
     object-fit: cover;
 }
